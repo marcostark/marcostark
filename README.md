@@ -1,5 +1,5 @@
 ### Hello World 👋
-<img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=marcostark&theme=radical&show_icons=true" />
+<img width="440px" align="center" src="https://github-readme-stats.vercel.app/api?username=marcostark&theme=radical&show_icons=true" />
 <!--
 **marcostark/marcostark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
