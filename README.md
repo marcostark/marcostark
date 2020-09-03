@@ -1,8 +1,7 @@
-<img width="440px" align="center" src="https://github-readme-stats.vercel.app/api?username=marcostark&theme=radical&show_icons=true" />
-<!--
-
 <h1 align="center">Hi 👋, I'm Marcos Souza</h1>
 <h3 align="center">Mobile and Backend developer, Machine-Learning enthusiast. In Love With Flutter!</h3>
+
+<img width="440px" align="center" src="https://github-readme-stats.vercel.app/api?username=marcostark&theme=radical&show_icons=true" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcostark" alt="marcostark" /> </p>
 
