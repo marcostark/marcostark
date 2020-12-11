@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Marcos Souza</h1>
-<h3 align="center">Mobile and Backend developer, Machine-Learning enthusiast. In Love With Flutter!</h3>
+<h3 align="center">Mobile developer, Machine-Learning enthusiast. In Love With Flutter!</h3>
 
 <img width="440px" align="center" src="https://github-readme-stats.vercel.app/api?username=marcostark&theme=radical&show_icons=true" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcostark" alt="marcostark" /> </p>
 
-- 🔭 I’m currently working on **Mobile and Backend developer,**
+- 🔭 I’m currently working on **Android developer,**
 
 - 🌱 I’m currently learning **Machine Learning**
 
@@ -13,6 +13,6 @@
 
 - 👨‍💻 All of my projects are available at [marcosouza.dev](http://marcosouza.dev/)
 
-- 💬 Ask me about **Android, Flutter, Spring Boot, Angular**
+- 💬 Ask me about **Android, Flutter, Spring Boot**
 
 - 📫 How to reach me **marcosasouza.ti@gmail.com**
