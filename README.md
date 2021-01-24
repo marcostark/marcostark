@@ -13,6 +13,6 @@
 
 - 👨‍💻 All of my projects are available at [marcosouza.dev](http://marcosouza.dev/)
 
-- 💬 Ask me about **Android, Flutter, Spring Boot**
+- 💬 Ask me about **Android, Flutter, Django, Spring Boot**
 
 - 📫 How to reach me **marcosasouza.ti@gmail.com**
