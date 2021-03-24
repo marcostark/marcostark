@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcostark" alt="marcostark" /> </p>
 
-- 🔭 I’m currently working on **Android developer,**
+- 🔭 I’m currently working on **Android development,**
 
 - 🌱 I’m currently learning **Machine Learning**
 
